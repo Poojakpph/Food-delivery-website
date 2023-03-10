@@ -1,0 +1,106 @@
+/* css for all */
+
+/* css styling for php */
+
+*{
+    margin: 0 0;
+    padding: 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.wrapper{
+    padding: 1%;
+    width: 80%;
+    margin: 0 auto;
+}
+.text-center{
+    text-align: center;
+}
+.clearfix{
+    float: none;
+    clear: both;
+}
+
+.tbl-full{
+    width: 100%;
+}
+
+table tr th{
+    border-bottom: 1px solid rgb(67, 65, 65);
+    padding: 1%;
+    text-align: left;
+}
+table tr td{
+    padding: 1%;
+}
+
+.btn-primary{
+    background-color:  #815B5B;
+    padding: 1%;
+    text-decoration: none;
+    color: white;
+    font-weight: 100;
+    border-radius: 3px;
+}
+.btn-primary:hover{
+    background-color:  #594545;
+}
+.btn-secondary{
+    background-color:  #9E7676;
+    padding: 1%;
+    text-decoration: none;
+    color: white;
+    font-weight: 100;
+    border-radius: 3px;
+}
+.btn-secondary:hover{
+    background-color:  #594545;
+}
+
+.tbl-30{
+    width: 30%;
+}
+
+/* css for footer */
+.footer{
+    background-color: #815B5B;
+    color: white;
+}
+
+/* css for menu */
+.menu ul{
+   list-style-type: none;
+}
+.menu ul li{
+    display: inline;
+    padding: 1%;
+ }
+
+ .menu ul li a{
+    text-decoration: none;
+    font-weight: 600;
+    color: black;
+ }
+ .menu ul li a:hover{
+    color: #9e784f;
+ }
+
+/* css for main content */
+.main-content{
+    background-color: #f3f1ee;
+    padding: 3% 0;
+}
+.col-4{
+    width: 18%;
+    background-color: white;
+    margin: 1%;
+    padding: 2%;
+    float: left;
+}
+
+/* css for login page */
+.login{
+    width: 30%;
+    border: 1px solid grey;
+    margin: 10% auto;
+    padding: 2%;
+}
