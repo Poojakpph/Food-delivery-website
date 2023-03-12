@@ -2,6 +2,7 @@
   //session starts
   session_start();
 
+
    //creating constants to store non repeating values
    define('SITEURL' , 'http://localhost/food-order/');
    define('LOCALHOST', 'localhost');    //constants in php are in uppercase letters
