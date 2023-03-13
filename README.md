@@ -36,15 +36,16 @@ Add Admin in Database<br>
 'Order Module' and add functionalities like<br>
 ✅  Order Food from Admin Panel<br>
 ✅  Manage Foods from Admin Panel<br>
-✅  Track Food Delivery<br>
+✅  Track Food Delivery<br><br>
+
 **PREREQUISITE**</br>
 To run this project, you must have installed a virtual server i.e XAMPP on your PC (for Windows).<br>
 1.Extract file<br>
-2.Copy the main project folder
-3.Paste in xampp/htdocs/
-4.Open a browser and go to URL “http://localhost/phpmyadmin/”
-5.Then, click on the databases tab
-6.Create a database naming “food-order” and then click on the import tab
-7.Click on browse file and select “foodorder.sql” file which is inside the “Order” folder
-8.Click on go.
-9.Open a browser and go to URL “http://localhost/order/”
+2.Copy the main project folder<br>
+3.Paste in xampp/htdocs/<br>
+4.Open a browser and go to URL “http://localhost/phpmyadmin/”<br>
+5.Then, click on the databases tab<br><br>
+6.Create a database naming “food-order” and then click on the import tab<br>
+7.Click on browse file and select “foodorder.sql” file which is inside the “Order” folder<br>
+8.Click on go.<br>
+9.Open a browser and go to URL “http://localhost/order/”<br>
