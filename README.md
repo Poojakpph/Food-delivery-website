@@ -31,3 +31,8 @@ Created this complete dynamic and fully functional website using PHP programming
 Add Admin in Database
 ✅  Display All Admins from Database
 ✅  Create Configuration File
+
+'Order Module' and add functionalities like
+✅  Order Food from Admin Panel
+✅  Manage Foods from Admin Panel
+✅  Track Food Delivery
