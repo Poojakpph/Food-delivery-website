@@ -1,7 +1,7 @@
 **ABOUT**</br>
 Created this complete dynamic and fully functional website using PHP programming language and MySQL Database.
 
-'Admin Module' and add functionalities to-
+'Admin Module' and add functionalities to-<br>
 ✅  Delete Admin from Database
 ✅  Update Admin in Database
 ✅  Change Admin Password
