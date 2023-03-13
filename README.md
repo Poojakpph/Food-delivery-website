@@ -2,23 +2,23 @@
 Created this complete dynamic and fully functional website using PHP programming language and MySQL Database.
 
 'Admin Module' and add functionalities to-<br>
-✅  Delete Admin from Database
-✅  Update Admin in Database
-✅  Change Admin Password
+✅  Delete Admin from Database<br>
+✅  Update Admin in Database<br>
+✅  Change Admin Password<br><br>
 
-'Login Module' and add functionalities like-
-✅  Authentication (Login System with PHP and MySQL)
-✅  Authorization (Access Control)
+'Login Module' and add functionalities like-<br>
+✅  Authentication (Login System with PHP and MySQL)<br>
+✅  Authorization (Access Control)<br><br>
 
-'Categories Module' and add functionalities like
-✅  Upload Image with PHP
-✅  Rename the Image while Uploading
-✅  Delete Image File with PHP
-✅  Add Category in Database
-✅  Delete Category from Database
-✅  Update Category in Database
-✅  Display Categories from Database
-✅  Update Image with PHP
+'Categories Module' and add functionalities like<br>
+✅  Upload Image with PHP<br>
+✅  Rename the Image while Uploading<br>
+✅  Delete Image File with PHP<br>
+✅  Add Category in Database<br>
+✅  Delete Category from Database<br>
+✅  Update Category in Database<br>
+✅  Display Categories from Database<br>
+✅  Update Image with PHP<br><br>
 
 'Food Module' and add functionalities like-
 ✅  Display Categories in Dropdown
