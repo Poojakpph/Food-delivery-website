@@ -20,6 +20,7 @@ Created this complete dynamic and fully functional website using PHP programming
 ✅  Display Categories from Database<br>
 ✅  Update Image with PHP<br>
 
+
 'Food Module' and add functionalities like-<br>
 ✅  Display Categories in Dropdown<br>
 ✅  Add Foods in Database<br>
