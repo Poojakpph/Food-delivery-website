@@ -38,6 +38,7 @@ Add Admin in Database<br>
 ✅  Manage Foods from Admin Panel<br>
 ✅  Track Food Delivery<br><br>
 
+
 **PREREQUISITE**</br>
 To run this project, you must have installed a virtual server i.e XAMPP on your PC (for Windows).<br>
 1.Extract file<br>
