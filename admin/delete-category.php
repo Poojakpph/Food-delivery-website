@@ -1,4 +1,6 @@
 <?php 
+//   echo "dlete category";
+
   include('../config/constants.php');
   // check whter the id and img_name value is set or not
   if(isset($_GET['id']) AND isset($_GET['img_name'])){
@@ -22,10 +24,10 @@
               }
 
        }
+    
        //delete data from DB
        // sql query to delete data from DB
        $sql= "DELETE FROM tbl_category WHERE id=$id";
-
        $res= mysqli_query($conn, $sql);
 
        if($res==true){
@@ -33,18 +35,13 @@
            $_SESSION['delete']="<div class='text-center'>Category Deleted Successfully</div>";
            header('location:'. SITEURL. 'admin/manage-category.php');
          }
-
         else{
             $_SESSION['delete']="<div class='text-center'>Failed to Delete Category</div>";
             header('location:'. SITEURL. 'admin/manage-category.php');
           }
-
     }
-
   else{
       //redirect to manage category page
       header('location:'. SITEURL. 'admin/manage-category.php');
   }
-
-
 ?>
