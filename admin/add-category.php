@@ -148,17 +148,14 @@
             $_SESSION['add']= "<div class='text-center'> Category Added Successfully </div>";
             header('location:'.SITEURL.'admin/manage-category.php');
         }
-
         else{
             $_SESSION['add']= "<div class='text-center'> Failed to Add Category.</div>";
             header('location:'.SITEURL.'admin/add-category.php');
           }
-        
         }    
  ?>
-           
-  </div>
-</div>
+   </div>
+     </div>
 
 <?php include('partials/footer.php');?>
  
