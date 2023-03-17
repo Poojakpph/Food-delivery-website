@@ -40,8 +40,7 @@
         else{
             $_SESSION['delete']="Failed to Delete Food. Try Again Later";
             header('location:'. SITEURL. 'admin/manage-food.php');
-        }
-        
+        }        
    }
 
    else{
