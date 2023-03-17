@@ -45,7 +45,6 @@
         </div>
   </div>
 
-  
   <?php 
       //checked whter submit button is clicked or not
      
@@ -110,9 +109,10 @@
               header('location:'.SITEURL.'admin/manage-admin.php');
 
             }
-      }
+        }
     }
 
   ?>
    
 <?php  include('partials/footer.php'); ?>
+
