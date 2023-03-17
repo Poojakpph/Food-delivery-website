@@ -26,7 +26,7 @@
                  $full_name= $row['full_name'];
                  $username= $row['username'];
                 }
-
+             
              else{
                    //now redirect to manage admin page
                 header('location:'. SITEURL. 'admin/manage-admin.php');  
