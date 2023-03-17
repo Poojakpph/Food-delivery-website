@@ -45,8 +45,14 @@
    //check whter submit button clicked or not
    if(isset($_POST['submit'])){
       //1. get the data from the login form
-     $username= $_POST['username'];
-     $password= md5($_POST['password']);
+      // $username= $_POST['username'];
+     // $password= md5($_POST['password']);
+
+     //to secure this code of php-
+
+     $username= mysqli_real_escape_string($conn, $_POST['username']);
+     $raw_password=md5($_POST['password']);
+     $password=  mysqli_real_escape_string($conn, $raw_password);
 
       //2. sql to check whter the user with username and password exists or not
      $sql="SELECT * FROM tbl_admin WHERE username='$username' AND password='$password' ";
@@ -70,6 +76,6 @@
         $_SESSION['login']= "<div class='text-center'> Username or Password didn't match </div>";
         header('location:'.SITEURL.'admin/login.php');
        }
-
+    
    }
  ?>
