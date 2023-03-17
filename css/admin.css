@@ -1,5 +1,3 @@
-/* css for all */
-
 /* css styling for php */
 
 *{
@@ -83,6 +81,7 @@ table tr td{
  .menu ul li a:hover{
     color: #9e784f;
  }
+ 
 
 /* css for main content */
 .main-content{
