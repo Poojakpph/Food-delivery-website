@@ -47,6 +47,6 @@ To run this project, you must have installed a virtual server i.e XAMPP on your 
 4.Open a browser and go to URL “http://localhost/phpmyadmin/”<br>
 5.Then, click on the databases tab<br>
 6.Create a database naming “food-order” and then click on the import tab<br>
-7.Click on browse file and select “foodorder.sql” file which is inside the “Order” folder<br>
+7.Click on browse file and select “foodorder.sql” file which is inside the “order” folder<br>
 8.Click on go.<br>
 9.Open a browser and go to URL “http://localhost/order/”<br>
