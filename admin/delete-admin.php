@@ -1,7 +1,6 @@
 <?php
-
- //include constants.php file
    include('../config/constants.php');      // by .. we can move out of the folder
+   
 //1- get the id of the admin to be deleted
   $id = $_GET['id'];
 
