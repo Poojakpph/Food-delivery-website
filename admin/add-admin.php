@@ -54,8 +54,8 @@
     if(isset($_POST['submit'])){
         
   // 1- get the data from the form
-        $full_name=$_POST['full_name'];
-        $username = $_POST['username'];
+        $full_name= mysqli_real_escape_string($conn,$_POST['full_name']);
+        $username = mysqli_real_escape_string($conn, $_POST['username']);
         $password = md5($_POST['password']);  //password encrypted with MD5
 
   //2- SQL query to save the data into database
@@ -80,14 +80,12 @@
     
       else{
         //failed to insert data
-    
         $_SESSION['add']="Failed to add successfully";
     
         //redirect page to add admin page
         header("Location: ".SITEURL.'admin/add-admin.php');     
 
        } 
-  
   }
 
  ?>   
