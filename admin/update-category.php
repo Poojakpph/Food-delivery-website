@@ -194,16 +194,11 @@
                 header('location:'.SITEURL.'admin/manage-category.php');
                 }
 
-               //3- update the DB
-
-            
-            //4- redirect to manage category to with message
-
           }
         ?>
       </div>  
   </div>
 
-
 <?php include('partials/footer.php'); ?>   
+
 
