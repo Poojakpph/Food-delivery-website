@@ -99,7 +99,7 @@
 
                                  else{
                                     echo "Image Not Available";
-                                 }
+                                   }
 
                              ?>
                             </td>
@@ -122,16 +122,12 @@
                else{
                      //we don't have data so we'll display the message inside table
                      ?>
-
                     <tr><td colspan="6"><div class="text-center">No category Added</div></td></tr>
-
                     <?php
-
                   }
  
                ?>
-
-           </table>
+           </table>        
          </div>   
    </div>  
 
