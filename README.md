@@ -53,8 +53,8 @@ To run this project, you must have installed a virtual server i.e XAMPP on your 
 
 **SNIPPETS**</br>
 Home page<br>
-![home 1](https://user-images.githubusercontent.com/86198133/226117148-cfd39539-6261-4347-a41c-11fe53ebeb04.png)<br>
-![home 2](https://user-images.githubusercontent.com/86198133/226117156-b330684a-6ec6-4671-9db4-abfa3aa76efd.png)<br>
+![home 1](https://user-images.githubusercontent.com/86198133/226117148-cfd39539-6261-4347-a41c-11fe53ebeb04.png)</br>
+![home 2](https://user-images.githubusercontent.com/86198133/226117156-b330684a-6ec6-4671-9db4-abfa3aa76efd.png)</br>
 
 Foods page<br>
 ![foods 1](https://user-images.githubusercontent.com/86198133/226117131-88acde35-2591-405b-a73d-acac9815586b.png)<br>
