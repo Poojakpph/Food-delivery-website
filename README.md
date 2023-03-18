@@ -50,3 +50,10 @@ To run this project, you must have installed a virtual server i.e XAMPP on your 
 7.Click on browse file and select “foodorder.sql” file which is inside the “order” folder<br>
 8.Click on go.<br>
 9.Open a browser and go to URL “http://localhost/order/”<br>
+
+**SNIPPETS**</br>![home 1](https://user-images.githubusercontent.com/86198133/226116373-6ffbac45-4c6c-47a2-94d6-dfa6b6af1a7d.png)
+![home 3](https://user-images.githubusercontent.com/86198133/226116406-4cb50203-811c-4a8c-88b7-d5fd6b5bd28f.png)
+![home 2](https://user-images.githubusercontent.com/86198133/226116416-a064fe51-a3dd-41aa-a553-1da99adf2f98.png)
+
+![index 2](https://user-images.githubusercontent.com/86198133/226116438-460da800-9813-4f0c-bf61-b5a73915c235.png)
+![Uploading order 1.png…]()
