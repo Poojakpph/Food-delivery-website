@@ -51,9 +51,21 @@ To run this project, you must have installed a virtual server i.e XAMPP on your 
 8.Click on go.<br>
 9.Open a browser and go to URL “http://localhost/order/”<br>
 
-**SNIPPETS**</br>![home 1](https://user-images.githubusercontent.com/86198133/226116373-6ffbac45-4c6c-47a2-94d6-dfa6b6af1a7d.png)
-![home 3](https://user-images.githubusercontent.com/86198133/226116406-4cb50203-811c-4a8c-88b7-d5fd6b5bd28f.png)
-![home 2](https://user-images.githubusercontent.com/86198133/226116416-a064fe51-a3dd-41aa-a553-1da99adf2f98.png)
+**SNIPPETS**</br>
+Home page<br>
+![home 1](https://user-images.githubusercontent.com/86198133/226117148-cfd39539-6261-4347-a41c-11fe53ebeb04.png)<br>
+![home 2](https://user-images.githubusercontent.com/86198133/226117156-b330684a-6ec6-4671-9db4-abfa3aa76efd.png)<br>
 
-![index 2](https://user-images.githubusercontent.com/86198133/226116438-460da800-9813-4f0c-bf61-b5a73915c235.png)
-![Uploading order 1.png…]()
+Foods page<br>
+![foods 1](https://user-images.githubusercontent.com/86198133/226117131-88acde35-2591-405b-a73d-acac9815586b.png)<br>
+![foods 2](https://user-images.githubusercontent.com/86198133/226117135-d6711ae3-3a71-4ada-a5e4-6a6c982a3648.png)<br>
+
+Foods- Search page<br>
+![food-search 1](https://user-images.githubusercontent.com/86198133/226117136-6cddb02f-ab8d-4bcb-8fb8-35dafd993e4a.png)<br>
+![food-search 2](https://user-images.githubusercontent.com/86198133/226117145-e8ae6e35-fa9a-4d38-8cc1-d9c8c7799365.png)<br>
+
+Categories page<br>
+![categories 1](https://user-images.githubusercontent.com/86198133/226117106-7930a082-c0e7-4bc7-8774-5602a9f89ee4.png)<br>
+![categories 2](https://user-images.githubusercontent.com/86198133/226117124-5253d612-a29a-4fab-bc57-044d9836069f.png)<br>
+
+
