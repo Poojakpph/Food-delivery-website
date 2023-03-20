@@ -97,3 +97,5 @@ To run this project, you must have installed a virtual server i.e XAMPP on your 
 
 
 ![index 2](https://user-images.githubusercontent.com/86198133/226118998-c320e011-abb8-4334-82a5-4ba10cc15389.png)
+
+
