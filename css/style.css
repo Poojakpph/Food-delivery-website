@@ -104,7 +104,12 @@ fieldset{
 
 
 /* CSS for Food Search Section */
-
+.order-box{
+    background-image: url(../images/bg_order.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1040px;
+}
 .food-search{
     background-image: url(../images/bg.jpg);
     background-size: cover;
@@ -114,7 +119,7 @@ fieldset{
 }
 
  .food-search-order{
-    background-image: url(../images/bg_order.jpg);
+    background-image: url(../images/bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -326,3 +331,4 @@ footer{
         width: 100%;
     }
 }
+
